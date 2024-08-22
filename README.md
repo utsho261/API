@@ -4,7 +4,11 @@ To set up a virtual environment for your project, follow these steps:
 
 ```bash
 mkdir myproject
+```
+```bash
 cd myproject
+```
+```bash
 py -3 -m venv .venv
 ```
 
