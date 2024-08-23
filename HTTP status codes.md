@@ -1,5 +1,5 @@
 ## Here is the list of HTTP status codes in the format you requested:
-
+```bash
 1xx - Informational Responses
 
 100 Continue
